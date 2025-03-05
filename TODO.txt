@@ -1,0 +1,38 @@
+TODO: UML2Java - User Management
+-----------------------------------------------------------
+
+********
+DEUTSCH:
+********
+
+1.  Klassendiagram zu Java konvertieren.
+    Das Klassendiagramm "ClassDiagram.png" bzw.
+    "ClassDiagram_landscape.png", gibt Ihnen die Struktur
+    der Implementierung vor.
+    => Implementieren Sie bitte dieses Klassendiagramm.
+
+    Überprüfen Sie Ihre Implementierung anhand der
+    vorhandenen Test-Klassen.
+
+    TIPP: Schauen Sie sich den Test-Code an, er
+    verrät viele Details zur Implementierung.
+    Tests sind eine ausführbare Spezifikation.
+
+********
+ENGLISH:
+********
+
+1.  Class Diagram to Java code transformation.
+	In your project folder you will find the following
+	class diagram files: "ClassDiagram.png", and
+	"Classdiagram_landscape.png" which describe
+	the same structure.
+	=> Please, implement the classes of the
+	class diagram in Java.
+
+	Check your solution by means of the included
+	unit-tests.
+
+	HINT: Have a look at the test-code, it will
+	disclose all implementation details. Unit-Tests
+	are executable specifications.
